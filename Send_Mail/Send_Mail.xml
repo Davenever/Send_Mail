@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Send_Mail</name>
+    </assembly>
+    <members>
+        <member name="M:Send_Mail.Controllers.SendMailController.Send">
+            <summary>
+            发送邮件
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
